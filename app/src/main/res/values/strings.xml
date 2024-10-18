@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">new</string>
+    <string name="welcome_message">Welcome to Mindfull Munch</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="we_encourage_you_to_follow_your_healthy_life_join_us_for_that">We encourage you to follow your Healthy Life Join us for that</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_mindful_munch">Welcome to Mindful Munch</string>
+    <string name="join_now">join_now</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+
+</resources>
